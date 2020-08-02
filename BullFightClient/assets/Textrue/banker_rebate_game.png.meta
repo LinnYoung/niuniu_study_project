@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2d725f9c-eac1-4211-9ebe-78bb129207ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 24,
+  "height": 25,
+  "platformSettings": {},
+  "subMetas": {
+    "banker_rebate_game": {
+      "ver": "1.0.4",
+      "uuid": "c827ccf2-d6f2-4991-b852-72de96158877",
+      "rawTextureUuid": "2d725f9c-eac1-4211-9ebe-78bb129207ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 25,
+      "rawWidth": 24,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

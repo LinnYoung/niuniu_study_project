@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fafec8ae-2d96-474a-9a3b-906cb41aa363",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 50,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "hospot_logo_full": {
+      "ver": "1.0.4",
+      "uuid": "6227af67-2fd8-4a7f-a03c-0fcde8a3072a",
+      "rawTextureUuid": "fafec8ae-2d96-474a-9a3b-906cb41aa363",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 71,
+      "rawWidth": 50,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

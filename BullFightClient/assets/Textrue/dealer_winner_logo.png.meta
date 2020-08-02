@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4b8e9fd9-f2df-4b0e-aac1-ba2658944b62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 51,
+  "platformSettings": {},
+  "subMetas": {
+    "dealer_winner_logo": {
+      "ver": "1.0.4",
+      "uuid": "9eae0557-6ac3-47af-aa50-054c4f07ddbf",
+      "rawTextureUuid": "4b8e9fd9-f2df-4b0e-aac1-ba2658944b62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 79,
+      "height": 51,
+      "rawWidth": 82,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

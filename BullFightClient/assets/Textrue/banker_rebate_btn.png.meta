@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3bec0e48-cb78-4da1-a4ca-f0c47550e552",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 49,
+  "platformSettings": {},
+  "subMetas": {
+    "banker_rebate_btn": {
+      "ver": "1.0.4",
+      "uuid": "ee8301bb-9367-4f74-ace3-9218c7719157",
+      "rawTextureUuid": "3bec0e48-cb78-4da1-a4ca-f0c47550e552",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 49,
+      "rawWidth": 180,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

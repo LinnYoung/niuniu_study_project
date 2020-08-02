@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3b83664f-ce35-4d40-a4f5-b338283264b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 219,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "discount_card_name": {
+      "ver": "1.0.4",
+      "uuid": "2ba600c6-658f-48a2-915b-30ddc5e9bc20",
+      "rawTextureUuid": "3b83664f-ce35-4d40-a4f5-b338283264b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 219,
+      "height": 33,
+      "rawWidth": 219,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

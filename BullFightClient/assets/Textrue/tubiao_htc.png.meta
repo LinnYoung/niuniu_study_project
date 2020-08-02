@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f2e4b6d0-dbc2-44be-8d85-eea7b1c198c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 30,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "tubiao_htc": {
+      "ver": "1.0.4",
+      "uuid": "d5693766-4da5-43b3-a981-561c91ae941c",
+      "rawTextureUuid": "f2e4b6d0-dbc2-44be-8d85-eea7b1c198c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 30,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

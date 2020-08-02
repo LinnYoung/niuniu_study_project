@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a89e2634-78f8-4213-a567-cc7fdd378a24",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 187,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "100_charge_card_name": {
+      "ver": "1.0.4",
+      "uuid": "01984baf-231b-438b-9840-a3adff9ec253",
+      "rawTextureUuid": "a89e2634-78f8-4213-a567-cc7fdd378a24",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 187,
+      "height": 32,
+      "rawWidth": 187,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "750ff804-6db8-43ff-86ba-58b461987374",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 29,
+  "platformSettings": {},
+  "subMetas": {
+    "chat_record_nor": {
+      "ver": "1.0.4",
+      "uuid": "22c15dc3-a49c-44fc-8a9f-0e0e65184801",
+      "rawTextureUuid": "750ff804-6db8-43ff-86ba-58b461987374",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 97,
+      "height": 29,
+      "rawWidth": 98,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

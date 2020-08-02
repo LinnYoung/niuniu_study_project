@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "06262ed1-7cbd-4484-86bb-bbc28038c0e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 523,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "ctestore_blog_large": {
+      "ver": "1.0.4",
+      "uuid": "2878d675-8398-45bb-be86-8bf49b19b575",
+      "rawTextureUuid": "06262ed1-7cbd-4484-86bb-bbc28038c0e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 15,
+      "width": 515,
+      "height": 58,
+      "rawWidth": 523,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

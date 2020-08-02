@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b08bd8cb-fbdc-4fa0-8086-2056c40f1aeb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 66,
+  "height": 65,
+  "platformSettings": {},
+  "subMetas": {
+    "iphone6s_icon": {
+      "ver": "1.0.4",
+      "uuid": "ad83ff9e-4861-45cd-a480-4c0a5f08c28d",
+      "rawTextureUuid": "b08bd8cb-fbdc-4fa0-8086-2056c40f1aeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 66,
+      "height": 65,
+      "rawWidth": 66,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

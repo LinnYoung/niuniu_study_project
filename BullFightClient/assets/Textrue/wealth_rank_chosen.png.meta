@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9d6e74e3-61cf-4263-adeb-68b2597673d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "wealth_rank_chosen": {
+      "ver": "1.0.4",
+      "uuid": "30ee33a2-4232-4838-b9b6-dac7e59477a5",
+      "rawTextureUuid": "9d6e74e3-61cf-4263-adeb-68b2597673d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 23,
+      "rawWidth": 68,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

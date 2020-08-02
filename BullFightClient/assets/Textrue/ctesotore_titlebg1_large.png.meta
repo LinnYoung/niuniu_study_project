@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "27449aa4-4d1e-4e38-a72d-f26fc2abe8c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 79,
+  "platformSettings": {},
+  "subMetas": {
+    "ctesotore_titlebg1_large": {
+      "ver": "1.0.4",
+      "uuid": "f17f373b-cc41-4a92-8b92-8c2fa202608e",
+      "rawTextureUuid": "27449aa4-4d1e-4e38-a72d-f26fc2abe8c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 79,
+      "rawWidth": 1024,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

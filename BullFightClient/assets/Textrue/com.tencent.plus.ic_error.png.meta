@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "061646df-efb8-499f-8273-48d915f08ba1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "com.tencent.plus.ic_error": {
+      "ver": "1.0.4",
+      "uuid": "8d130bae-6875-4d4c-b429-2f12ea1a0486",
+      "rawTextureUuid": "061646df-efb8-499f-8273-48d915f08ba1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 33,
+      "rawWidth": 32,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
